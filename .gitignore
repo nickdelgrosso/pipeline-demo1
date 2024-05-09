@@ -1,0 +1,4 @@
+data/processed
+reports
+__pycache__
+.snakemake
