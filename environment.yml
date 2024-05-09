@@ -8,3 +8,4 @@ dependencies:
   - snakemake>=8.11
   - pip:
       - papermill>=2.6
+      - watchfiles
