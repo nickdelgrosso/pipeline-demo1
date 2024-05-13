@@ -1,1 +1,0 @@
-snakemake -s snakemake_file --cores 1
